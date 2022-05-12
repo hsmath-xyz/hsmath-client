@@ -1,6 +1,6 @@
 {
   "name": "hsmath",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "HSMath Client",
   "productName": "HSMath",
   "main": "main.js",
