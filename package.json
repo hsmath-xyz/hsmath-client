@@ -1,0 +1,14 @@
+{
+  "name": "hsmath",
+  "version": "0.0.2",
+  "description": "HSMath Client",
+  "productName": "HSMath",
+  "main": "main.js",
+  "repository": "",
+  "author": "HSMath (@JSK)",
+  "license": "CC0-1.0",
+  "dependencies": {
+    "electron-updater": "^4.3.2",
+    "discord-rpc": "^3.1.4"
+  }
+}
